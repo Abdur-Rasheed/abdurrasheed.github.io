@@ -1,5 +1,6 @@
-import logo from "./logo.svg";
+//import logo from "./logo.svg";
 import "./App.css";
+import logo from "../src/abdurrasheed.JPG";
 
 function App() {
   return (
