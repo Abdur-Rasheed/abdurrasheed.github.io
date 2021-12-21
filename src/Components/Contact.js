@@ -38,8 +38,11 @@ class Contact extends Component {
 
   render() {
     return (
-      <form className="register_components">
+     
+      <form className="form123">
+
         <div>
+        <br/>
           <label>
             Name :
             <input

@@ -32,7 +32,10 @@ function App() {
             <Link to="/Project">Project</Link>
             <Link to="/Contact">Contact</Link>
           </Navigation>
+          
           <br />
+
+         
           <div className="Social_Links">
             <SocialIcon url="https://mobile.twitter.com/AbdurRasheedSy3" />
             <br />
@@ -54,6 +57,8 @@ function App() {
             <Calendar onChange={setDate} value={date} />
           </div>
           <h2 className="text-center">
+         
+          
             <span className="bold">Today is:</span> {date.toDateString()}
           </h2>
           <hr />

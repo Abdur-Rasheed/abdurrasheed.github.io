@@ -21,7 +21,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: red;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -127,6 +127,14 @@
 .img-text-wrapper:hover .subtitle {
   color: lightseagreen;
   font-weight: 600;
+}
+.form123{
+  margin-top: 1000;
+  background-color: blue;
+}
+.calendar-container{
+  margin-right: 1000;
+background-color: blue;
 }
 
 .logo-wrapper img {
