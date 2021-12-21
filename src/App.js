@@ -3,6 +3,7 @@ import { useState } from "react";
 import { Layout, Header, Navigation, Drawer, Content } from "react-mdl";
 import { Link } from "react-router-dom";
 import { SocialIcon } from "react-social-icons";
+//import Stock from "./Components/Stock"
 //import photo from "./Components/abdurrasheed.JPG";
 import Calendar from "react-calendar";
 import "react-calendar/dist/Calendar.css";
@@ -58,7 +59,7 @@ function App() {
           </div>
           <h2 className="text-center">
          
-          
+         {/* // <Stock/> */}
             <span className="bold">Today is:</span> {date.toDateString()}
           </h2>
           <hr />
