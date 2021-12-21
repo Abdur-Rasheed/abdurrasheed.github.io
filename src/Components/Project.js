@@ -45,7 +45,7 @@ class Project extends Component {
             <CardActions border>
               <Button colored>
                 <a
-                  href="https://github.com/abdel1413"
+                  href="https://github.com/Abdur-Rasheed/"
                   style={{ textDecoration: "none" }}
                 >
                   github
@@ -53,7 +53,7 @@ class Project extends Component {
               </Button>
               <Button colored>
                 <a
-                  href="https://abdel1413.github.io/myrobotfriendslifecycle/"
+                  href="https://github.com/Abdur-Rasheed/"
                   style={{ textDecoration: "none" }}
                 >
                   Live Demo
@@ -80,31 +80,10 @@ class Project extends Component {
             >
               Technology used for My RobotFriends Project
             </CardTitle>
-            <CardText>
-              <div style={{ color: "black" }}>
-                <h3>React-dom</h3>
-                <h3>React-router-dom</h3>
-                <h3>React-mdl</h3>
-                <h3>Tachyons</h3>
-              </div>
-            </CardText>
+            
             <CardActions border>
-              <Button colored>
-                <a
-                  href="https://github.com/abdel1413"
-                  style={{ textDecoration: "none" }}
-                >
-                  github
-                </a>
-              </Button>
-              <Button colored>
-                <a
-                  href="https://abdel1413.github.io/myrobotfriendslifecycle/"
-                  style={{ textDecoration: "none" }}
-                >
-                  Live Demo
-                </a>
-              </Button>
+            
+            
             </CardActions>
             <CardMenu style={{ color: "#fff" }}>
               <IconButton name="share" />

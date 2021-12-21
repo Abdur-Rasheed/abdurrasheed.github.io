@@ -24,9 +24,9 @@ export default class About extends React.Component {
               <img src={Abdur} alt="myImage" />
             </div>
 
-            <div class="profile-content-wrapper">
+            <div className="profile-content-wrapper">
               <h1>Hi, this is a little about me.</h1>
-              <p>
+              <p className="me">
                 As a kid, I was very shy and undervalued my accomplishments. My
                 insecurities got the best of me and kept me from many
                 opportunities. While I knew I was not dumb, as evidenced by my
@@ -56,7 +56,7 @@ export default class About extends React.Component {
                 short and always work for what I want.
               </p>
 
-              <p>
+              <p className="me">
                 I created this website to let the world know about me, my
                 passions, and the current projects I am working on. I believe no
                 goal is to big to acccomplish. The sky is above me. The earth is

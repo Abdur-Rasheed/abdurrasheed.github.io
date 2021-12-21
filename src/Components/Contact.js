@@ -42,6 +42,7 @@ class Contact extends Component {
       <form className="form123">
 
         <div>
+          <h2>Contact Me</h2>
         <br/>
           <label>
             Name :

@@ -129,12 +129,44 @@
   font-weight: 600;
 }
 .form123{
-  margin-top: 1000;
-  background-color: blue;
+  display: flex;
+  padding: 10px;
+  flex-direction: column;
+  align-items: center;
+justify-content: center;
+border:3px palegreen solid;
+ margin: auto;
+ margin-top: 100px;
+  background-color:lightgray;
+  width: 50%;
+  height: 50%;
+ 
+  margin-bottom: 20px;
+}
+input{
+  width: 500px;
+padding: 20px;
+margin: 10px;
+
+}
+button{
+  padding: 20px;
+  width: 200px;
+  margin-top: 30px;
+  font-size: 25px;
+}
+label{
+  font-size: 25px;
 }
 .calendar-container{
-  margin-right: 1000;
-background-color: blue;
+  display: flex;
+ justify-content: center;
+
+
+}
+
+.me{
+  font-size: 20px;
 }
 
 .logo-wrapper img {
